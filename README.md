@@ -1,1 +1,1 @@
-# gemblbot.footx
+# entyfootx
